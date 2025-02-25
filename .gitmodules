@@ -1,0 +1,3 @@
+[submodule "ros_ws/src/trusses_custom_interfaces"]
+	path = ros_ws/src/trusses_custom_interfaces
+	url = git@github.com:TRUSSES/trusses_custom_interfaces.git
