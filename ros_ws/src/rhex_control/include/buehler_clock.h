@@ -1,12 +1,3 @@
-/**
- * @file buehler_clock.h
- * @brief Implements a Buehler Clock for legged robot gait generation
- * @version 0.1
- * @date 2024-11-17
- *
- * @copyright Copyright (c) 2024
- *
- */
 #pragma once
 
 #include <iostream>
