@@ -30,12 +30,7 @@ const std::unordered_map<size_t, AlternatingTripod::Tripod> AlternatingTripod::i
     {5, kTripodB}  // Back-right
 };
 
-/**
- * @brief Construct a new Alternating Tripod object
- * 
- * @param leg_length Length of the robot's legs
- * @param leg_separation Lateral distance between legs
- */
+// Construct a new Alternating Tripod object
 AlternatingTripod::AlternatingTripod(float leg_length, float leg_separation)
     : leg_length_(leg_length), leg_separation_(leg_separation)
 {

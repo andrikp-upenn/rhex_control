@@ -1,13 +1,3 @@
-/**
- * @file buehler_clock.cpp
- * @brief Implementation of the Buehler Clock for legged robot gait generation
- * @version 0.1
- * @date 2024-04-06
- *
- * @copyright Copyright (c) 2024
- *
- */
-
 #include "buehler_clock.h"
 
 // Constructor with default values
